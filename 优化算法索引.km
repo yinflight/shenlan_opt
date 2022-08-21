@@ -1,0 +1,236 @@
+{
+    "root": {
+        "data": {
+            "id": "cmbul7cbtbc0",
+            "created": 1661099386239,
+            "text": "优化算法"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cmbuls9z19c0",
+                    "created": 1661099431809,
+                    "text": "无约束优化算法"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cmbun2kxchk0",
+                            "created": 1661099532603,
+                            "text": "线搜索方法"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cmbuq4442s00",
+                                    "created": 1661099771033,
+                                    "text": "线搜索准则"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cmbuqwsjve00",
+                                            "created": 1661099833460,
+                                            "text": "非单调线搜索准则"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cmbuqhgletc0",
+                                            "created": 1661099800086,
+                                            "text": "Goldstein准则"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cmbuq8dqqtk0",
+                                            "created": 1661099780322,
+                                            "text": "Armjo准则（非精确）"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cmbuqmpr3c00",
+                                            "created": 1661099811523,
+                                            "text": "Wolfe准则（非精确）",
+                                            "layout_right_offset": {
+                                                "x": 6,
+                                                "y": 7
+                                            }
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cmbv6gndk800",
+                                    "created": 1661101052147,
+                                    "text": "搜索方向的不同",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cmbun3d5cu00",
+                                            "created": 1661099534310,
+                                            "text": "梯度类算法"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cmburrp7f7s0",
+                                                    "created": 1661099900738,
+                                                    "text": "梯度下降法（函数一阶信息）"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cmbuvzbku740",
+                                                            "created": 1661100230785,
+                                                            "text": "如何确定步长"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "cmbuwdcl1280",
+                                                                    "created": 1661100261321,
+                                                                    "text": "constant step size （常数步长）"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "cmbuwe475q80",
+                                                                    "created": 1661100262991,
+                                                                    "text": "Diminishing step size (渐消步长)"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "cmbuweljh9c0",
+                                                                    "created": 1661100264039,
+                                                                    "text": "Exact line search （精确线搜索）"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "cmbuwfxxuyw0",
+                                                                    "created": 1661100266966,
+                                                                    "text": "Inexact line search （非精确线搜索）"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cmbun42aeug0",
+                                            "created": 1661099535830,
+                                            "text": "次梯度算法"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cmbun54udcg0",
+                                            "created": 1661099538161,
+                                            "text": "牛顿类算法"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cmbunv8fkhk0",
+                                            "created": 1661099594975,
+                                            "text": "拟牛顿类算法"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cmbunwbu5qo0",
+                            "created": 1661099597357,
+                            "text": "信赖域算法"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cmbuoaes19c0",
+                            "created": 1661099628010,
+                            "text": "最小二乘问题算法"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cmbutrt1v8g0",
+                                    "created": 1661100057699,
+                                    "text": "线性最小二乘算法"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cmbutvpuqe80",
+                                    "created": 1661100066213,
+                                    "text": "非线性最小二乘算法"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cmbuot5922w0",
+                    "created": 1661099668793,
+                    "text": "约束优化算法"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cmbuoz9nc6o0",
+                            "created": 1661099682119,
+                            "text": "惩罚函数法"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cmbup05in5s0",
+                            "created": 1661099684046,
+                            "text": "增广拉格朗日函数法"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cmbup0o2nnk0",
+                            "created": 1661099685168,
+                            "text": "线性规划内点法"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
