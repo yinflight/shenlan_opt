@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/gao/workspace/shenlan_opt/work2/resource/ROS/src/GCOPTER/gcopter/include/**",
+        "/home/gao/workspace/shenlan_opt/work2/resource/ROS/src/GCOPTER/map_gen/mockamap/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
